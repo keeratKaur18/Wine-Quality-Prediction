@@ -17,6 +17,13 @@ selection and analysis.
 ## Final Result 
 <img width="553" alt="Screenshot 2023-09-29 at 12 09 15 PM" src="https://github.com/keeratKaur18/Wine-Quality-Prediction/assets/98026175/c588dbc2-59ea-4cb9-8f1c-f7fa02ec63ae">
 
+The main findings of the project indicate that machine learning algorithms, specifically
+Random Forest, Gradient Boosting Classifier & Decision Tree can be successfully
+applied to predict wine quality based on chemical properties. The performance of the
+models was evaluated using accuracy, precision, recall, and F1 score metrics, after
+which hyperparameter tuning was done and the highest accuracy of 94% was
+achieved using Random Forest.
+
 ## Graphical User Interface (GUI)
 <img width="443" alt="Screenshot 2023-09-29 at 12 09 04 PM" src="https://github.com/keeratKaur18/Wine-Quality-Prediction/assets/98026175/75973169-bd91-4048-9511-d5a675c0cbe1">
 
