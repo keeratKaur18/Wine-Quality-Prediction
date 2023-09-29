@@ -25,6 +25,12 @@ which hyperparameter tuning was done and the highest accuracy of 94% was
 achieved using Random Forest.
 
 ## Graphical User Interface (GUI)
+
+A graphical user interface (GUI) was developed to make the model more
+accessible to non-technical users. It was developed using the Tkinter
+library in Python, and it allows users to input wine features and obtain a
+predicted wine quality score.
+
 <img width="443" alt="Screenshot 2023-09-29 at 12 09 04 PM" src="https://github.com/keeratKaur18/Wine-Quality-Prediction/assets/98026175/75973169-bd91-4048-9511-d5a675c0cbe1">
 
 ## Report 
