@@ -14,5 +14,11 @@ Boosting, Naïve Bayes, KNN, Random Forest, and Support Vector Regression (SVR) 
 build predictive models. We also used Principal Component Analysis (PCA) for feature
 selection and analysis. 
 
+## Final Result 
+<img width="553" alt="Screenshot 2023-09-29 at 12 09 15 PM" src="https://github.com/keeratKaur18/Wine-Quality-Prediction/assets/98026175/c588dbc2-59ea-4cb9-8f1c-f7fa02ec63ae">
+
+## Graphical User Interface (GUI)
+<img width="443" alt="Screenshot 2023-09-29 at 12 09 04 PM" src="https://github.com/keeratKaur18/Wine-Quality-Prediction/assets/98026175/75973169-bd91-4048-9511-d5a675c0cbe1">
+
 ## Report 
 https://drive.google.com/file/d/1j4w3_-jZOBzCQFVYYzJStkPV3GWT0rhB/view?usp=sharing
